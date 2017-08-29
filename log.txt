@@ -12,3 +12,6 @@ Starter Kit : AMR Sensor
 [1]	2017/ 8/29 16:53:28	Magnet detected.
 [2]	2017/ 8/29 16:53:28	Magnet detected.
 [3]	2017/ 8/29 16:53:28	Magnet detected.
+[4]	2017/ 8/29 16:54:47	Magnet detected.
+[5]	2017/ 8/29 16:54:47	Magnet detected.
+[6]	2017/ 8/29 16:54:48	Magnet detected.
