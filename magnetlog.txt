@@ -1,2 +1,4 @@
 [99]	2017/ 9/12 18:32:14	Magnet detected.
 [1]	2017/ 9/12 18:32:14	Magnet detected.
+[100]	2017/ 9/12 18:32:24	Magnet detected.
+[2]	2017/ 9/12 18:32:24	Magnet detected.
