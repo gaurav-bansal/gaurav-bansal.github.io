@@ -1,11 +1,1 @@
-1: Temp=24.0*  Humidity=76.9%
-2: Temp=24.0*  Humidity=77.2%
-3: Temp=24.0*  Humidity=77.2%
-4: Temp=24.0*  Humidity=77.2%
-5: Temp=24.0*  Humidity=77.2%
-6: Temp=24.0*  Humidity=76.9%
-7: Temp=24.0*  Humidity=77.2%
-8: Temp=24.0*  Humidity=77.1%
-9: Temp=24.0*  Humidity=77.0%
-10: Temp=24.0*  Humidity=77.0%
-11: Temp=24.0*  Humidity=77.3%
+1: Temp=24.0*  Humidity=77.3%
