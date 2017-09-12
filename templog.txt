@@ -20,3 +20,4 @@
 20: Temp=24.2*  Humidity=78.0%
 21: Temp=24.2*  Humidity=78.1%
 22: Temp=24.2*  Humidity=78.2%
+23: Temp=24.2*  Humidity=78.2%
