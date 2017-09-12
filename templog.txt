@@ -25,3 +25,4 @@
 25: Temp=24.3*  Humidity=78.1%
 26: Temp=24.2*  Humidity=78.1%
 27: Temp=24.2*  Humidity=78.0%
+28: Temp=24.2*  Humidity=78.0%
