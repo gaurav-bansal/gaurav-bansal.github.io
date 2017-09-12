@@ -5,3 +5,6 @@
 [5]	2017/ 9/12 17:51:44	Magnet detected.
 [6]	2017/ 9/12 17:51:46	Magnet detected.
 [7]	2017/ 9/12 17:51:56	Magnet detected.
+[8]	2017/ 9/12 17:51:57	Magnet detected.
+[9]	2017/ 9/12 17:51:58	Magnet detected.
+[10]	2017/ 9/12 17:52: 6	Magnet detected.
