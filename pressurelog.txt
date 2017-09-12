@@ -2,3 +2,4 @@
 [1]	2017/ 9/12 18:32:11	Pressure : 100758 (Pa)	Temperature : 24.1 (degC)
 [1]	2017/ 9/12 18:32:21	Pressure : 100759 (Pa)	Temperature : 24.1 (degC)
 [1]	2017/ 9/12 18:32:32	Pressure : 100757 (Pa)	Temperature : 24.1 (degC)
+[1]	2017/ 9/12 18:32:42	Pressure : 100761 (Pa)	Temperature : 24.1 (degC)
