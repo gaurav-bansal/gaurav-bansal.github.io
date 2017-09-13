@@ -8,3 +8,4 @@
 8: Temp=23.2*  Humidity=79.4%
 9: Temp=23.2*  Humidity=79.4%
 10: Temp=23.2*  Humidity=79.4%
+11: Temp=23.2*  Humidity=79.4%
