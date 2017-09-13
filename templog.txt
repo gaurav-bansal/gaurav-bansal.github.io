@@ -6,3 +6,4 @@
 6: Temp=23.3*  Humidity=77.7%
 7: Temp=23.3*  Humidity=77.5%
 8: Temp=23.3*  Humidity=77.7%
+9: Temp=23.3*  Humidity=77.7%
