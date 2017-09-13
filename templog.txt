@@ -3,3 +3,4 @@
 3: Temp=23.2*  Humidity=79.4%
 4: Temp=23.2*  Humidity=79.6%
 5: Temp=23.2*  Humidity=79.4%
+6: Temp=23.2*  Humidity=79.4%
