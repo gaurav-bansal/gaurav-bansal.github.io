@@ -31,3 +31,4 @@
 31: Temp=23.3*  Humidity=79.7%
 32: Temp=23.3*  Humidity=79.8%
 33: Temp=23.3*  Humidity=79.9%
+34: Temp=23.3*  Humidity=80.0%
