@@ -13,3 +13,4 @@
 13: Temp=23.2*  Humidity=79.3%
 14: Temp=23.2*  Humidity=79.4%
 15: Temp=23.2*  Humidity=79.4%
+16: Temp=23.2*  Humidity=79.2%
