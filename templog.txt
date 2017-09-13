@@ -16,3 +16,4 @@
 16: Temp=23.4*  Humidity=78.0%
 17: Temp=23.4*  Humidity=77.9%
 18: Temp=23.4*  Humidity=77.8%
+19: Temp=23.4*  Humidity=77.9%
