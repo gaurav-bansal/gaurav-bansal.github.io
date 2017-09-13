@@ -1,16 +1,1 @@
-1: Temp=23.2*  Humidity=79.3%
-2: Temp=23.2*  Humidity=79.2%
-3: Temp=23.2*  Humidity=79.3%
-4: Temp=23.2*  Humidity=79.3%
-5: Temp=23.2*  Humidity=79.3%
-6: Temp=23.2*  Humidity=79.6%
-7: Temp=23.2*  Humidity=79.6%
-8: Temp=23.2*  Humidity=79.4%
-9: Temp=23.2*  Humidity=79.4%
-10: Temp=23.2*  Humidity=79.4%
-11: Temp=23.2*  Humidity=79.4%
-12: Temp=23.2*  Humidity=79.4%
-13: Temp=23.2*  Humidity=79.3%
-14: Temp=23.2*  Humidity=79.4%
-15: Temp=23.2*  Humidity=79.4%
-16: Temp=23.2*  Humidity=79.2%
+1: Temp=23.5*  Humidity=77.6%
