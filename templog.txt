@@ -21,3 +21,4 @@
 21: Temp=23.3*  Humidity=79.6%
 22: Temp=23.3*  Humidity=79.6%
 23: Temp=23.3*  Humidity=79.6%
+24: Temp=23.3*  Humidity=79.6%
