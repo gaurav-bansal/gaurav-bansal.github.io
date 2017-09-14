@@ -9,3 +9,4 @@
 9: Temp=24.1*  Humidity=78.3%
 10: Temp=24.1*  Humidity=78.2%
 11: Temp=24.1*  Humidity=78.0%
+12: Temp=24.1*  Humidity=78.0%
