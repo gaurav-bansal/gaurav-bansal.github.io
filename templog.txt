@@ -14,3 +14,4 @@
 14: Temp=24.1*  Humidity=77.8%
 15: Temp=24.1*  Humidity=77.8%
 16: Temp=24.1*  Humidity=77.9%
+17: Temp=24.2*  Humidity=77.9%
