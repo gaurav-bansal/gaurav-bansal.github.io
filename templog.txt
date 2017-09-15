@@ -67,3 +67,4 @@
 67: Temp=24.6*  Humidity=79.8%
 68: Temp=24.6*  Humidity=79.8%
 69: Temp=24.6*  Humidity=79.8%
+70: Temp=24.6*  Humidity=79.7%
