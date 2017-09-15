@@ -42,3 +42,4 @@
 42: Temp=24.3*  Humidity=79.4%
 43: Temp=24.4*  Humidity=79.5%
 44: Temp=24.4*  Humidity=79.4%
+45: Temp=24.4*  Humidity=79.5%
