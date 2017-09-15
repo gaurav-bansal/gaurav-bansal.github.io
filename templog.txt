@@ -18,3 +18,4 @@
 18: Temp=24.2*  Humidity=78.7%
 19: Temp=24.2*  Humidity=78.7%
 20: Temp=24.2*  Humidity=78.7%
+21: Temp=24.2*  Humidity=78.8%
