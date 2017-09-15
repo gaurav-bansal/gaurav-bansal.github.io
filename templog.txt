@@ -75,3 +75,4 @@
 75: Temp=24.6*  Humidity=79.5%
 76: Temp=24.6*  Humidity=79.5%
 77: Temp=24.6*  Humidity=79.5%
+78: Temp=24.6*  Humidity=79.5%
