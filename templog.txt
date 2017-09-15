@@ -4,3 +4,4 @@
 4: Temp=25.7*  Humidity=74.6%
 5: Temp=25.7*  Humidity=75.2%
 6: Temp=25.8*  Humidity=75.2%
+7: Temp=25.8*  Humidity=74.7%
