@@ -38,3 +38,4 @@
 38: Temp=24.3*  Humidity=79.4%
 39: Temp=24.3*  Humidity=79.4%
 40: Temp=24.3*  Humidity=79.4%
+41: Temp=24.3*  Humidity=79.5%
