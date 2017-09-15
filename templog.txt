@@ -17,3 +17,4 @@
 17: Temp=24.2*  Humidity=78.5%
 18: Temp=24.2*  Humidity=78.7%
 19: Temp=24.2*  Humidity=78.7%
+20: Temp=24.2*  Humidity=78.7%
