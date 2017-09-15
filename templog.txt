@@ -36,3 +36,4 @@
 36: Temp=24.3*  Humidity=79.4%
 37: Temp=24.3*  Humidity=79.4%
 38: Temp=24.3*  Humidity=79.4%
+39: Temp=24.3*  Humidity=79.4%
