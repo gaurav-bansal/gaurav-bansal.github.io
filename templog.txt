@@ -48,3 +48,4 @@
 48: Temp=24.4*  Humidity=79.6%
 49: Temp=24.4*  Humidity=79.6%
 50: Temp=24.4*  Humidity=79.6%
+51: Temp=24.5*  Humidity=79.6%
