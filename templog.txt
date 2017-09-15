@@ -70,3 +70,4 @@
 70: Temp=24.6*  Humidity=79.7%
 71: Temp=24.6*  Humidity=79.7%
 72: Temp=24.6*  Humidity=79.6%
+73: Temp=24.6*  Humidity=79.6%
