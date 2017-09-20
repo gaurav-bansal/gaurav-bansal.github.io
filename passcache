@@ -1,0 +1,5 @@
+git config credential.helper store
+git config --global credential.helper 'cache --timeout 7200'
+git push https://github.com/gaurav-bansal/gaurav-bansal.github.io.git
+
+Enter the username and password. It'll store the credentials cache for 7200 seconds.
